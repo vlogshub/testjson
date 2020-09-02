@@ -1,0 +1,15 @@
+[
+    {
+        "category_name": "shirts",
+        "category_image": "images/cats/tshirt.png"
+    },
+    {
+        "category_name": "pents",
+        "category_image": "images/cats/jeans.png"
+    },
+    {
+        "category_name": "formal",
+        "category_image": "images/cats/formal.png"
+        
+    }
+]
